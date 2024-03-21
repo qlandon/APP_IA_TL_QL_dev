@@ -1,1 +1,2 @@
-print("helloworld")
+new_var = print("helloworld")
+
