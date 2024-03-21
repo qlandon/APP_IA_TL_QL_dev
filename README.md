@@ -17,3 +17,13 @@ Plan d'actions :
 5 - Implémenter OCR / NLP
 
 6 - Documenter sur sora pour voir si on peut l'utilsier pour créer des vidéos explicatives de maths 
+salut je fais un test 
+qzdqzdqs
+
+qzd
+qzd
+qs
+dq
+zd
+q
+sdqzd
