@@ -5,13 +5,20 @@ Plan d'actions :
 
 1 - Générer une base de données conséquentes (170 énoncés pour commencer)
 
-2 - Labelme pour faire la segmentation d'image
+2 - Labelme pour faire la segmentation d'image et trouver dans les énnoncés : 
+- numéro exo 
+- tableau 
+- image
+- énoncé
 
-3 - Choisir et entrainer un modele de segmentation d'images avec nos images JSON
+3 - Choisir et entrainer un modele de segmentation d'images avec nos label JSON
 
 4 - OCR --> reconnaissance de caractères / equation / symbole
 
+- mathpix : détecte les équations/ tableau/ texte
+
 5 - NLP ---> Comprendre le code et donner des solutions
+mistrale/chatgpt/..s
 
 6 - commencer le Back-end / Front-end 
   Design
