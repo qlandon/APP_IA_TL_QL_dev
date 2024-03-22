@@ -12,7 +12,7 @@ Plan d'actions :
 - énoncé
 
 3 - Choisir et entrainer un modele de segmentation d'images avec nos label JSON
-
+https://github.com/Momotoculteur/Tooth-decay-semantic-segmentation/blob/master/README.md
 4 - OCR --> reconnaissance de caractères / equation / symbole
 
 - mathpix : détecte les équations/ tableau/ texte
